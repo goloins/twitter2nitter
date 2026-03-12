@@ -1,9 +1,9 @@
 # twitter2nitter
 
-Redirects your Twitter/X page to Nitter, that's it.
-
-Firefox users can [download the extension here](https://addons.mozilla.org/en-US/firefox/addon/twitter-to-nitter).
-Chrome users have to manually add the extension.
+Redirects your Twitter/X page to Nitter, that's it. Forked from a-catgirl-dev's version, 
+but this one strips the tracking data from the twitter url since sometimes nitter.net 
+chokes on it a little bit. Does what it says on the tin. Waiting on the Mozilla Dev
+site to sign/verify the xpi so that'll be coming soon.
 
 ## License
 
